@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Sandesh 👋  
 
-<!--
-**isandeshh/isandeshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder @Vyapx | Ex-CEO @Styleyn (₹3Cr+ sales)  
+💻 Full-Stack AI/ML Engineer | Building in Public  
 
-Here are some ideas to get you started:
+## What I’m Working On  
+- ⚡ Building Vyapx Lite → AI OS for Bharat’s businesses  
+- 💻 Grinding 12–15 hrs/day → coding + open-source + LeetCode  
+- 🌍 Build in Public → sharing progress daily  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack  
+- **Languages:** Python, JavaScript (Next.js), SQL  
+- **Backend:** FastAPI, Supabase, Postgres  
+- **Frontend:** Next.js, Tailwind CSS  
+- **AI/ML:** Pandas, NumPy, scikit-learn, PyTorch, LangChain, OpenAI API  
+- **DevOps:** Docker, Vercel, Render, AWS  
+
+## Current Challenge  
+Building Vyapx MVP in 6 months →  
+👉 Goal 1: 500+ users + funding  
+👉 Goal 2: Top full stack AI Engineer 
+➡️ Follow my journey on Twitter (https://x.com/isandeshh)  
+➡️ Connect on LinkedIn (https://www.linkedin.com/in/i-sandesh/)
+
