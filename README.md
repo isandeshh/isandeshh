@@ -1,6 +1,6 @@
 # Hi, I’m Sandesh 👋  
 
-🚀 Founder @Vyapx | Ex-CEO @Styleyn (₹3Cr+ sales)  
+🚀 Founder @Vyapx | Ex-CEO @Styleyn (₹5Cr+ sales)  
 💻 Full-Stack AI/ML Engineer | Building in Public  
 
 ## What I’m Working On  
