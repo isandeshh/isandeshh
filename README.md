@@ -4,7 +4,7 @@
 💻 Full-Stack AI/ML Engineer | Building in Public  
 
 ## What I’m Working On  
-- ⚡ Building Vyapx Lite → AI OS for Bharat’s businesses  
+- ⚡ Building VyapX → AI OS for Bharat’s businesses  
 - 💻 Grinding 12–15 hrs/day → coding + open-source + LeetCode  
 - 🌍 Build in Public → sharing progress daily  
 
