@@ -18,7 +18,6 @@
 ## Current Challenge  
 Building Vyapx MVP in 6 months →  
 👉 Goal 1: 100+ users + funding  
-👉 Goal 2: Top full stack AI Engineer 
 ➡️ Follow my journey on Twitter (https://x.com/isandeshh)  
 ➡️ Connect on LinkedIn (https://www.linkedin.com/in/i-sandesh/)
 
