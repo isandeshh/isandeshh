@@ -1,14 +1,14 @@
 # Hi, I’m Sandesh 👋  
 
-🚀 Founder-operator transitioning into Applied AI Engineering.
+Founder-operator transitioning into Applied AI Engineering.
 
 I previously built and operated Styleyn, a D2C fashion brand that crossed ₹4Cr+ in sales. That experience gave me strong ownership, product thinking, business operations, and execution skills.
 
 I am now focused on building practical AI and software systems using Python, APIs, SQL, automation workflows, and modern AI tools.
 
 ## Current Focus
-- ⚡ Building VyapX → AI OS  
-- Learning Python, SQL, Git, and backend fundamentals
+- Building VyapX → AI OS  
+- Python, SQL, Git, and backend fundamentals
 - Practicing DSA in Python for technical interviews
 - Building applied AI projects with OpenAI APIs and workflow automation
 - Preparing for IITM BS in Data Science and Applications
