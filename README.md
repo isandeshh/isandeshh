@@ -1,23 +1,51 @@
 # Hi, I’m Sandesh 👋  
 
-🚀 Building @Vyapx | Ex-CEO @Styleyn (₹5Cr+ sales)  
-💻 Full-Stack AI/ML Engineer | Building in Public  
+🚀 Founder-operator transitioning into Applied AI Engineering.
 
-## What I’m Working On  
+I previously built and operated Styleyn, a D2C fashion brand that crossed ₹4Cr+ in sales. That experience gave me strong ownership, product thinking, business operations, and execution skills.
+
+I am now focused on building practical AI and software systems using Python, APIs, SQL, automation workflows, and modern AI tools.
+
+## Current Focus
 - ⚡ Building VyapX → AI OS  
-- 💻 Grinding 12–15 hrs/day → coding + open-source + LeetCode  
-- 🌍 Build in Public → sharing progress daily  
+- Learning Python, SQL, Git, and backend fundamentals
+- Practicing DSA in Python for technical interviews
+- Building applied AI projects with OpenAI APIs and workflow automation
+- Preparing for IITM BS in Data Science and Applications
+- Documenting my engineering journey through projects and GitHub
 
 ## Tech Stack  
-- **Languages:** Python, JavaScript (Next.js), SQL  
-- **Backend:** FastAPI, Supabase, Postgres  
-- **Frontend:** Next.js, Tailwind CSS  
-- **AI/ML:** Pandas, NumPy, scikit-learn, PyTorch, LangChain, OpenAI API  
-- **DevOps:** Docker, Vercel, Render, AWS  
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**Backend:** FastAPI, REST APIs, Node.js basics  
+**AI & Automation:** OpenAI API, LLM workflows, prompt engineering, automation systems  
+**Databases:** PostgreSQL, Supabase, SQLite  
+**Frontend:** Next.js, React, Tailwind CSS  
+**Tools:** Git, GitHub, VS Code, Render, Vercel  
 
-## Current Challenge  
-Building Vyapx MVP in 6 months →  
-👉 Goal 1: 100+ users + funding  
-➡️ Follow my journey on Twitter (https://x.com/isandeshh)  
-➡️ Connect on LinkedIn (https://www.linkedin.com/in/i-sandesh/)
+## Projects I'm Building
+
+### AI Job Application Tracker
+A tool to manage job applications, analyze job descriptions, extract required skills, and suggest resume keywords using AI.
+
+**Stack:** Python, FastAPI, SQL, OpenAI API  
+**Status:** Building
+
+### VyapX Business Copilot Lite
+An AI assistant for small business operations using mock customer, vendor, order, and sales data.
+
+**Stack:** Python, APIs, SQL, AI workflows  
+**Status:** Planning / Building
+
+## Background
+
+- Founder, Styleyn: Built and operated a D2C fashion brand crossing ₹4Cr+ in sales (2021-2025)
+- Founder, OneDflow: Built a marketing and web services agency (2019-2020)
+- Builder, VyapX: Exploring AI workflows, automation systems, and business copilots(2026-)
+
+
+## Connect
+
+- Portfolio: https://isandesh-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/i-sandesh/
+- X: https://x.com/isandeshh
 
