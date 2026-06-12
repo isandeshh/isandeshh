@@ -11,7 +11,7 @@ I am now focused on building practical AI and software systems using Python, API
 - Python, SQL, Git, and backend fundamentals
 - Practicing DSA in Python for technical interviews
 - Building applied AI projects with OpenAI APIs and workflow automation
-- Preparing for IITM BS in Data Science and Applications
+- Building job-ready AI/backend projects and preparing for technical interviews
 - Documenting my engineering journey through projects and GitHub
 
 ## Tech Stack  
