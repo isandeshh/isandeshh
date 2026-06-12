@@ -10,7 +10,7 @@ I am now focused on building practical AI and software systems using Python, API
 - Building VyapX → AI OS  
 - Python, SQL, Git, and backend fundamentals
 - Practicing DSA in Python for technical interviews
-- Building applied AI projects with OpenAI APIs and workflow automation
+- Applying to Applied AI, Python backend, software developer, and startup engineering roles
 - Building job-ready AI/backend projects and preparing for technical interviews
 - Documenting my engineering journey through projects and GitHub
 
